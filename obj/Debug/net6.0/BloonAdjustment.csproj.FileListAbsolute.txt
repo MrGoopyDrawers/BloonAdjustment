@@ -1,0 +1,10 @@
+C:\Users\pauls\Documents\BTD6 Mod Sources\BloonAdjustment\obj\Debug\net6.0\BloonAdjustment.csproj.AssemblyReference.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\BloonAdjustment\obj\Debug\net6.0\BloonAdjustment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauls\Documents\BTD6 Mod Sources\BloonAdjustment\obj\Debug\net6.0\BloonAdjustment.AssemblyInfoInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\BloonAdjustment\obj\Debug\net6.0\BloonAdjustment.AssemblyInfo.cs
+C:\Users\pauls\Documents\BTD6 Mod Sources\BloonAdjustment\obj\Debug\net6.0\BloonAdjustment.csproj.CoreCompileInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\BloonAdjustment\bin\Debug\net6.0\BloonAdjustment.deps.json
+C:\Users\pauls\Documents\BTD6 Mod Sources\BloonAdjustment\bin\Debug\net6.0\BloonAdjustment.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\BloonAdjustment\obj\Debug\net6.0\BloonAdjustment.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\BloonAdjustment\obj\Debug\net6.0\refint\BloonAdjustment.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\BloonAdjustment\obj\Debug\net6.0\ref\BloonAdjustment.dll
